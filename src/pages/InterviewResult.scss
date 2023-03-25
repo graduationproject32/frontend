@@ -1,0 +1,21 @@
+.interviewResult {
+  padding-top: 35px;
+  h1 {
+    font-size: 45px;
+  }
+}
+.interviewResultCircle {
+  max-width: 250px;
+}
+.interviewResultCard {
+  background-color: #fff;
+  border-radius: 50px;
+  margin-bottom: 20px;
+  box-shadow: -3px 3px 20px 0px rgba(112, 112, 112, 0.1);
+  .col {
+    padding: 60px 50px;
+  }
+}
+.text-warning {
+  color: #ffca8b !important;
+}
